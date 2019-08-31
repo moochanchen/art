@@ -1,0 +1,157 @@
+.version.works /* version checker */
+{
+	color: #000000;
+	background-color: #87F464;
+}
+
+.html
+{
+	background-color: #FFC2FF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 345px;
+	width: 0.01px;
+}
+
+#u695-4
+{
+	z-index: 17;
+	width: 348px;
+	min-height: 29px;
+}
+
+#pu139-5
+{
+	width: 0.01px;
+	margin-left: -86px;
+	margin-top: 33px;
+}
+
+#u139-5
+{
+	z-index: 2;
+	width: 86px;
+	min-height: 17px;
+	margin-right: -10000px;
+}
+
+#u158-5
+{
+	z-index: 21;
+	width: 57px;
+	min-height: 12px;
+	background-color: transparent;
+	font-size: 9px;
+	line-height: 11px;
+	position: relative;
+	margin-right: -10000px;
+	left: 135px;
+}
+
+#u159-5
+{
+	z-index: 26;
+	width: 57px;
+	min-height: 12px;
+	background-color: transparent;
+	font-size: 9px;
+	line-height: 11px;
+	margin-left: 49px;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u140-5
+{
+	z-index: 7;
+	width: 86px;
+	min-height: 17px;
+	left: -86px;
+	top: -5px;
+	margin-bottom: -5px;
+}
+
+#u162-5
+{
+	z-index: 41;
+	width: 57px;
+	min-height: 12px;
+	background-color: transparent;
+	font-size: 9px;
+	line-height: 11px;
+	margin-left: 49px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#pu549-5
+{
+	width: 0.01px;
+	margin-left: -86px;
+	margin-top: 3px;
+}
+
+#u549-5
+{
+	z-index: 12;
+	width: 86px;
+	min-height: 17px;
+	margin-right: -10000px;
+}
+
+#u160-5
+{
+	z-index: 31;
+	width: 64px;
+	min-height: 12px;
+	background-color: transparent;
+	font-size: 9px;
+	line-height: 11px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 135px;
+}
+
+#u161-5
+{
+	z-index: 36;
+	width: 64px;
+	min-height: 12px;
+	background-color: transparent;
+	font-size: 9px;
+	line-height: 11px;
+	margin-left: 49px;
+	margin-top: 8px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

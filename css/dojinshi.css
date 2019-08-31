@@ -1,0 +1,136 @@
+.version.dojinshi /* version checker */
+{
+	color: #000001;
+	background-color: #159AB0;
+}
+
+.html
+{
+	background-color: #FFC2FF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u695-4
+{
+	z-index: 17;
+	width: 348px;
+	min-height: 29px;
+}
+
+#pu139-5
+{
+	width: 0.01px;
+	margin-left: -86px;
+	margin-top: 33px;
+}
+
+#u139-5
+{
+	z-index: 2;
+	width: 86px;
+	min-height: 17px;
+	margin-right: -10000px;
+}
+
+#u163-5
+{
+	z-index: 21;
+	width: 27px;
+	min-height: 13px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 106px;
+}
+
+#u166-5
+{
+	z-index: 26;
+	width: 54px;
+	min-height: 13px;
+	background-color: transparent;
+	margin-left: 20px;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u163-3,#u166-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u163,#u166
+{
+	font-size: 9px;
+	line-height: 11px;
+}
+
+#u140-5
+{
+	z-index: 7;
+	width: 86px;
+	min-height: 17px;
+	left: -86px;
+	top: -5px;
+	margin-bottom: -5px;
+}
+
+#pu549-5
+{
+	width: 0.01px;
+	margin-left: -86px;
+}
+
+#u549-5
+{
+	z-index: 12;
+	width: 86px;
+	min-height: 17px;
+	margin-right: -10000px;
+	margin-top: 11px;
+}
+
+#u387
+{
+	z-index: 31;
+	width: 1000px;
+	min-height: 600px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 106px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

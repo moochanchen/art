@@ -1,0 +1,65 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="moochanchen.com.tw" resolutions="1x" timestamp="1567262484842">
+  <folder name="css">
+    <file name="site_global.css" crc="3866070010"/>
+    <file name="master_a-__.css" crc="4293718348" ref="月經販賣所:illustration:animation:index:fashion-design0:works:info:fashion-design:dojinshi"/>
+    <file name="_____.css" crc="20742755" ref="月經販賣所"/>
+    <file name="illustration.css" crc="4236880005" ref="illustration"/>
+    <file name="animation.css" crc="503011198" ref="animation"/>
+    <file name="index.css" crc="74626567" ref="index"/>
+    <file name="fashion-design0.css" crc="474591454" ref="fashion-design0"/>
+    <file name="works.css" crc="8909924" ref="works"/>
+    <file name="info.css" crc="130797416" ref="info"/>
+    <file name="fashion-design.css" crc="514107814" ref="fashion-design"/>
+    <file name="dojinshi.css" crc="18193072" ref="dojinshi"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:info:works:illustration:dojinshi:animation:fashion-design:月經販賣所:fashion-design0"/>
+    <file name="museutils.js" crc="275725342" ref="index:info:works:illustration:dojinshi:animation:fashion-design:月經販賣所:fashion-design0"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:info:works:illustration:dojinshi:animation:fashion-design:月經販賣所:fashion-design0"/>
+  </folder>
+  <folder name="images">
+    <file name="去背面包車.png" crc="439296641" seo="true" ref="index"/>
+    <file name="11.png" crc="3954533416" seo="true" ref="info"/>
+    <file name="sc17002-s.png" crc="113135456" seo="true" ref="animation"/>
+    <file name="allll.jpg" crc="4088607369" seo="true" ref="animation"/>
+    <file name="mooch_book cover.png" crc="4230953591" seo="true" ref="fashion-design"/>
+    <file name="mooch_book_p1-p2.jpg" crc="443188248" seo="true" ref="fashion-design"/>
+    <file name="mooch_book_p3-p4.jpg" crc="153784970" seo="true" ref="fashion-design"/>
+    <file name="mooch_book_p5-p6.jpg" crc="379177766" seo="true" ref="fashion-design"/>
+    <file name="mooch_book_p7-p8.jpg" crc="122008384" seo="true" ref="fashion-design"/>
+    <file name="mooch_book_p15-p16.jpg" crc="691414" seo="true" ref="fashion-design"/>
+    <file name="mooch_book_p11-p12.jpg" crc="4207710159" seo="true" ref="fashion-design"/>
+    <file name="mooch_book_p13-p14.jpg" crc="326437581" seo="true" ref="fashion-design"/>
+    <file name="mooch_book_p9-p10.jpg" crc="493416472" seo="true" ref="fashion-design"/>
+    <file name="000標題-01.jpg" crc="68516311" seo="true" ref="月經販賣所"/>
+    <file name="照片07-01.jpg" crc="4277631266" seo="true" ref="月經販賣所"/>
+    <file name="照片01-01.jpg" crc="263000474" seo="true" ref="月經販賣所"/>
+    <file name="照片02-01.jpg" crc="3949097166" seo="true" ref="月經販賣所"/>
+    <file name="照片03-01.jpg" crc="96006618" seo="true" ref="月經販賣所"/>
+    <file name="照片04-01.jpg" crc="4095356829" seo="true" ref="月經販賣所"/>
+    <file name="照片05-01.jpg" crc="396398129" seo="true" ref="月經販賣所"/>
+    <file name="照片06-01.jpg" crc="40001252" seo="true" ref="月經販賣所"/>
+    <file name="照片08-01.jpg" crc="3781988132" seo="true" ref="月經販賣所"/>
+    <file name="照片09-01.jpg" crc="371412910" seo="true" ref="月經販賣所"/>
+    <file name="照片010-01.jpg" crc="3970802164" seo="true" ref="月經販賣所"/>
+    <file name="寫生-625.jpg" crc="454814912" seo="true" ref="fashion-design0"/>
+    <file name="寫生-627.jpg" crc="4087304731" seo="true" ref="fashion-design0"/>
+    <file name="寫生-634.jpg" crc="4044517692" seo="true" ref="fashion-design0"/>
+    <file name="寫生-636.jpg" crc="4146339518" seo="true" ref="fashion-design0"/>
+    <file name="寫生-638.jpg" crc="4018634446" seo="true" ref="fashion-design0"/>
+    <file name="寫生-640.jpg" crc="359390898" seo="true" ref="fashion-design0"/>
+    <file name="寫生-648.jpg" crc="432430007" seo="true" ref="fashion-design0"/>
+    <file name="寫生-651.jpg" crc="487376282" seo="true" ref="fashion-design0"/>
+    <file name="走秀底片_180708_0001.jpg" crc="4000970229" seo="true" ref="fashion-design0"/>
+    <file name="走秀底片_180708_0002.jpg" crc="300356709" seo="true" ref="fashion-design0"/>
+  </folder>
+  <file name="index.html" crc="330863885" seo="true" mt="1567185721445" redirect="true"/>
+  <file name="info.html" crc="374570212" seo="true" mt="1567262096925" redirect="true"/>
+  <file name="works.html" crc="460015531" seo="true" mt="1567185772926" redirect="true"/>
+  <file name="illustration.html" crc="3888756789" seo="true" mt="1567185735077" redirect="true"/>
+  <file name="dojinshi.html" crc="4183032923" seo="true" mt="1567185946739" redirect="true"/>
+  <file name="animation.html" crc="3991546070" seo="true" mt="1567185747965" redirect="true"/>
+  <file name="fashion-design.html" crc="3760603355" seo="true" mt="1567185839058" redirect="true"/>
+  <file name="月經販賣所.html" crc="3985920692" seo="true" mt="1567185772928" redirect="true"/>
+  <file name="fashion-design0.html" crc="4285483027" seo="true" mt="1567185765207" redirect="true"/>
+</manifest>
