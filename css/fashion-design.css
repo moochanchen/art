@@ -1,7 +1,7 @@
 .version.fashion_design /* version checker */
 {
-	color: #00001E;
-	background-color: #A4A9A6;
+	color: #00000D;
+	background-color: #17DBD7;
 }
 
 .html
@@ -24,6 +24,7 @@
 
 #page_position_content
 {
+	padding-top: 20px;
 	padding-bottom: 132px;
 	width: 0.01px;
 }
@@ -33,19 +34,13 @@
 	z-index: 17;
 	width: 348px;
 	min-height: 29px;
-}
-
-#ppu139-5
-{
-	width: 0.01px;
-	margin-left: -86px;
-	margin-top: 33px;
+	margin-left: 103px;
 }
 
 #pu139-5
 {
 	width: 0.01px;
-	margin-right: -10000px;
+	margin-top: 13px;
 }
 
 #u139-5
@@ -53,6 +48,7 @@
 	z-index: 2;
 	width: 86px;
 	min-height: 17px;
+	margin-right: -10000px;
 }
 
 #u140-5
@@ -60,7 +56,8 @@
 	z-index: 7;
 	width: 86px;
 	min-height: 17px;
-	margin-top: 10px;
+	margin-right: -10000px;
+	margin-top: 27px;
 }
 
 #u549-5
@@ -68,43 +65,28 @@
 	z-index: 12;
 	width: 86px;
 	min-height: 17px;
-	margin-top: 11px;
-}
-
-#u413
-{
-	z-index: 21;
-	width: 1019px;
-	background-color: transparent;
-	position: relative;
 	margin-right: -10000px;
-	left: 106px;
-}
-
-#u413_img
-{
-	padding-right: 719px;
-	padding-bottom: 1078px;
+	margin-top: 55px;
 }
 
 #u397
 {
-	z-index: 25;
+	z-index: 21;
 	width: 2048px;
 	height: 1152px;
 	position: relative;
 	margin-right: -10000px;
-	left: 106px;
+	left: 21px;
 }
 
 #u403
 {
-	z-index: 26;
+	z-index: 22;
 	width: 2048px;
 	height: 1152px;
 	position: relative;
 	margin-right: -10000px;
-	left: 106px;
+	left: 20px;
 }
 
 .ie #u397,.ie #u403
@@ -113,6 +95,23 @@
 	opacity: 0.01;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 	filter: alpha(opacity=1);
+}
+
+#u413
+{
+	z-index: 23;
+	width: 1019px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 20px;
+}
+
+#u413_img
+{
+	padding-left: 83px;
+	padding-right: 636px;
+	padding-bottom: 1078px;
 }
 
 #u409-39
@@ -127,7 +126,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 63px;
-	left: 449px;
+	left: 446px;
 }
 
 #u425
@@ -138,7 +137,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 461px;
-	left: 106px;
+	left: 103px;
 }
 
 #u431
@@ -149,7 +148,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1000px;
-	left: 106px;
+	left: 103px;
 }
 
 #u425_img,#u431_img
@@ -166,7 +165,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1518px;
-	left: 106px;
+	left: 103px;
 }
 
 #u437_img
@@ -184,7 +183,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 2069px;
-	left: 106px;
+	left: 103px;
 }
 
 #u443_clip
@@ -209,7 +208,7 @@
 
 #u473
 {
-	z-index: 23;
+	z-index: 25;
 	width: 1000px;
 	background-color: transparent;
 	position: relative;
@@ -224,6 +223,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	left: 83px;
 }
 
 #u467
@@ -247,7 +247,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1638px;
-	left: 353px;
+	left: 436px;
 }
 
 #u479
@@ -260,7 +260,7 @@
 	z-index: 74;
 	width: 1000px;
 	background-color: transparent;
-	margin-left: 20px;
+	margin-left: 103px;
 	top: -2322px;
 	margin-bottom: -705px;
 	position: relative;

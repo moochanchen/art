@@ -1,7 +1,7 @@
 .version.works /* version checker */
 {
-	color: #000000;
-	background-color: #87F464;
+	color: #00000F;
+	background-color: #E3B5E1;
 }
 
 .html
@@ -24,7 +24,8 @@
 
 #page_position_content
 {
-	padding-bottom: 345px;
+	padding-top: 20px;
+	padding-bottom: 327px;
 	width: 0.01px;
 }
 
@@ -33,13 +34,7 @@
 	z-index: 17;
 	width: 348px;
 	min-height: 29px;
-}
-
-#pu139-5
-{
-	width: 0.01px;
-	margin-left: -86px;
-	margin-top: 33px;
+	margin-left: 103px;
 }
 
 #u139-5
@@ -47,7 +42,7 @@
 	z-index: 2;
 	width: 86px;
 	min-height: 17px;
-	margin-right: -10000px;
+	margin-top: 13px;
 }
 
 #u158-5
@@ -58,9 +53,18 @@
 	background-color: transparent;
 	font-size: 9px;
 	line-height: 11px;
+	margin-left: 129px;
+	margin-top: 1px;
 	position: relative;
-	margin-right: -10000px;
-	left: 135px;
+}
+
+#u140-5
+{
+	z-index: 7;
+	width: 86px;
+	min-height: 17px;
+	top: -3px;
+	margin-bottom: -3px;
 }
 
 #u159-5
@@ -71,40 +75,16 @@
 	background-color: transparent;
 	font-size: 9px;
 	line-height: 11px;
-	margin-left: 49px;
-	margin-top: 3px;
-	position: relative;
-}
-
-#u140-5
-{
-	z-index: 7;
-	width: 86px;
-	min-height: 17px;
-	left: -86px;
-	top: -5px;
-	margin-bottom: -5px;
-}
-
-#u162-5
-{
-	z-index: 41;
-	width: 57px;
-	min-height: 12px;
-	background-color: transparent;
-	font-size: 9px;
-	line-height: 11px;
-	margin-left: 49px;
-	top: -4px;
-	margin-bottom: -4px;
+	margin-left: 129px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
 }
 
 #pu549-5
 {
 	width: 0.01px;
-	margin-left: -86px;
-	margin-top: 3px;
+	margin-top: 5px;
 }
 
 #u549-5
@@ -115,6 +95,20 @@
 	margin-right: -10000px;
 }
 
+#u162-5
+{
+	z-index: 41;
+	width: 57px;
+	min-height: 12px;
+	background-color: transparent;
+	font-size: 9px;
+	line-height: 11px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 129px;
+}
+
 #u160-5
 {
 	z-index: 31;
@@ -123,10 +117,9 @@
 	background-color: transparent;
 	font-size: 9px;
 	line-height: 11px;
+	margin-left: 129px;
+	margin-top: 7px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 6px;
-	left: 135px;
 }
 
 #u161-5
@@ -137,7 +130,7 @@
 	background-color: transparent;
 	font-size: 9px;
 	line-height: 11px;
-	margin-left: 49px;
+	margin-left: 129px;
 	margin-top: 8px;
 	position: relative;
 }

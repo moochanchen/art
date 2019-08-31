@@ -1,7 +1,7 @@
 .version.animation /* version checker */
 {
-	color: #00001D;
-	background-color: #FB577E;
+	color: #000013;
+	background-color: #43729A;
 }
 
 .html
@@ -28,7 +28,6 @@
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 62px;
-	margin-left: -86px;
 }
 
 #u139-5
@@ -58,6 +57,8 @@
 {
 	width: 0.01px;
 	margin-right: -10000px;
+	margin-top: 20px;
+	margin-left: 103px;
 }
 
 #u695-4
@@ -70,8 +71,7 @@
 #pu580
 {
 	width: 0.01px;
-	margin-left: 20px;
-	margin-top: 33px;
+	margin-top: 13px;
 }
 
 #u580

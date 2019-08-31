@@ -1,7 +1,7 @@
 .version.info /* version checker */
 {
-	color: #000007;
-	background-color: #CBCF68;
+	color: #000009;
+	background-color: #1EB160;
 }
 
 .html
@@ -24,6 +24,7 @@
 
 #page_position_content
 {
+	padding-top: 20px;
 	padding-bottom: 129px;
 	width: 0.01px;
 }
@@ -33,6 +34,7 @@
 	z-index: 17;
 	width: 348px;
 	min-height: 29px;
+	margin-left: 103px;
 }
 
 #u139-5
@@ -40,14 +42,12 @@
 	z-index: 2;
 	width: 86px;
 	min-height: 17px;
-	left: -86px;
-	margin-top: 33px;
+	margin-top: 13px;
 }
 
 #ppu140-5
 {
 	width: 0.01px;
-	margin-left: -86px;
 	margin-top: -1px;
 }
 
@@ -81,7 +81,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 125px;
+	left: 111px;
 }
 
 #u142-13
@@ -91,7 +91,7 @@
 	min-height: 62px;
 	background-color: transparent;
 	font-size: 10px;
-	margin-left: 39px;
+	margin-left: 111px;
 	margin-top: 29px;
 	position: relative;
 }
@@ -115,7 +115,7 @@
 	font-size: 9px;
 	text-align: center;
 	line-height: 11px;
-	margin-left: 39px;
+	margin-left: 111px;
 	margin-top: 1px;
 	position: relative;
 }
@@ -129,7 +129,7 @@
 	font-size: 9px;
 	text-align: center;
 	line-height: 11px;
-	margin-left: 39px;
+	margin-left: 111px;
 	margin-top: 15px;
 	position: relative;
 }
@@ -143,7 +143,7 @@
 	font-size: 9px;
 	text-align: center;
 	line-height: 11px;
-	margin-left: 39px;
+	margin-left: 111px;
 	margin-top: 15px;
 	position: relative;
 }
@@ -157,7 +157,7 @@
 	font-size: 9px;
 	text-align: center;
 	line-height: 11px;
-	margin-left: 39px;
+	margin-left: 111px;
 	margin-top: 15px;
 	position: relative;
 }

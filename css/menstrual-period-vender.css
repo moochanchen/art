@@ -1,7 +1,7 @@
 .version.menstrual_period_vender /* version checker */
 {
-	color: #0000F8;
-	background-color: #F4F7E3;
+	color: #0000F7;
+	background-color: #F5B39A;
 }
 
 .html
@@ -28,7 +28,6 @@
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 62px;
-	margin-left: -86px;
 }
 
 #u139-5
@@ -58,6 +57,8 @@
 {
 	width: 0.01px;
 	margin-right: -10000px;
+	margin-top: 20px;
+	margin-left: 103px;
 }
 
 #u695-4
@@ -70,8 +71,8 @@
 #pu601
 {
 	width: 0.01px;
-	margin-left: 249px;
-	margin-top: 33px;
+	margin-left: 146px;
+	margin-top: 13px;
 }
 
 #u601

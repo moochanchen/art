@@ -1,7 +1,7 @@
 .version.illustration /* version checker */
 {
-	color: #0000FC;
-	background-color: #89A885;
+	color: #000013;
+	background-color: #5599D7;
 }
 
 .html
@@ -24,6 +24,7 @@
 
 #page_position_content
 {
+	padding-top: 20px;
 	padding-bottom: 86px;
 	width: 0.01px;
 }
@@ -33,6 +34,7 @@
 	z-index: 17;
 	width: 348px;
 	min-height: 29px;
+	margin-left: 103px;
 }
 
 #u139-5
@@ -40,8 +42,7 @@
 	z-index: 2;
 	width: 86px;
 	min-height: 17px;
-	left: -86px;
-	margin-top: 33px;
+	margin-top: 13px;
 }
 
 #u140-5
@@ -49,7 +50,6 @@
 	z-index: 7;
 	width: 86px;
 	min-height: 17px;
-	left: -86px;
 	margin-top: 10px;
 }
 
@@ -58,7 +58,6 @@
 	z-index: 12;
 	width: 86px;
 	min-height: 17px;
-	left: -86px;
 	margin-top: 11px;
 }
 
@@ -84,6 +83,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -106px;
+	left: 83px;
 }
 
 body
