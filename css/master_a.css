@@ -1,16 +1,16 @@
-#u695-4
-{
-	background-color: transparent;
-	font-size: 9px;
-	line-height: 11px;
-	position: relative;
-}
-
 #u139-5,#u140-5,#u549-5
 {
 	background-color: transparent;
 	font-size: 9px;
 	text-align: center;
+	line-height: 11px;
+	position: relative;
+}
+
+#u695-4
+{
+	background-color: transparent;
+	font-size: 9px;
 	line-height: 11px;
 	position: relative;
 }

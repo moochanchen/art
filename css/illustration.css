@@ -1,7 +1,7 @@
 .version.illustration /* version checker */
 {
-	color: #000013;
-	background-color: #5599D7;
+	color: #000002;
+	background-color: #3C22DB;
 }
 
 .html
@@ -74,7 +74,7 @@
 #u393
 {
 	z-index: 22;
-	width: 1000px;
+	width: 1100px;
 	min-height: 2845px;
 	border-style: none;
 	border-color: transparent;

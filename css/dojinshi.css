@@ -1,7 +1,7 @@
 .version.dojinshi /* version checker */
 {
-	color: #0000E6;
-	background-color: #21FDA5;
+	color: #0000F2;
+	background-color: #FBF50C;
 }
 
 .html
@@ -71,8 +71,8 @@
 #u387
 {
 	z-index: 21;
-	width: 1000px;
-	min-height: 600px;
+	width: 1100px;
+	min-height: 704px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;

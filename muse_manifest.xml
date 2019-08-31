@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="moochanchen.com.tw" resolutions="1x" timestamp="1567270341799">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="moochanchen.com.tw" resolutions="1x" timestamp="1567271678090">
   <folder name="css">
-    <file name="site_global.css" crc="3866070010"/>
-    <file name="illustration.css" crc="324377047" ref="illustration"/>
+    <file name="site_global.css" crc="216964411"/>
+    <file name="illustration.css" crc="37495515" ref="illustration"/>
     <file name="animation.css" crc="323187354" ref="animation"/>
-    <file name="index.css" crc="425933139" ref="index"/>
+    <file name="index.css" crc="362357402" ref="index"/>
     <file name="fashion-design0.css" crc="3983342476" ref="fashion-design0"/>
-    <file name="works.css" crc="266581473" ref="works"/>
+    <file name="works.css" crc="3912169574" ref="works"/>
     <file name="info.css" crc="153006432" ref="info"/>
     <file name="fashion-design.css" crc="219667415" ref="fashion-design"/>
-    <file name="dojinshi.css" crc="3860987301" ref="dojinshi"/>
-    <file name="master_a.css" crc="4293718348" ref="works:menstrual-period-vender:dojinshi:info:animation:fashion-design:fashion-design0:index:illustration"/>
+    <file name="dojinshi.css" crc="4076598540" ref="dojinshi"/>
+    <file name="master_a.css" crc="411176740" ref="works:menstrual-period-vender:dojinshi:info:animation:fashion-design:fashion-design0:index:illustration"/>
     <file name="menstrual-period-vender.css" crc="4160074650" ref="menstrual-period-vender"/>
   </folder>
   <folder name="scripts">
@@ -18,7 +18,6 @@
     <file name="jquery.watch.js" crc="3999102769" ref="index:info:works:illustration:dojinshi:animation:fashion-design:fashion-design0:menstrual-period-vender"/>
   </folder>
   <folder name="images">
-    <file name="去背面包車.png" crc="439296641" seo="true" ref="index"/>
     <file name="11.png" crc="3954533416" seo="true" ref="info"/>
     <file name="sc17002-s.png" crc="113135456" seo="true" ref="animation"/>
     <file name="allll.jpg" crc="4088607369" seo="true" ref="animation"/>
@@ -52,12 +51,13 @@
     <file name="寫生-651.jpg" crc="487376282" seo="true" ref="fashion-design0"/>
     <file name="走秀底片_180708_0001.jpg" crc="4000970229" seo="true" ref="fashion-design0"/>
     <file name="走秀底片_180708_0002.jpg" crc="300356709" seo="true" ref="fashion-design0"/>
+    <file name="去背面包車-s.png" crc="430708977" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="483785383" seo="true" mt="1567270332420" redirect="true"/>
+  <file name="index.html" crc="419909686" seo="true" mt="1567271551134" redirect="true"/>
   <file name="info.html" crc="4206065273" seo="true" mt="1567270182243" redirect="true"/>
-  <file name="works.html" crc="4151763142" seo="true" mt="1567270276835" redirect="true"/>
-  <file name="illustration.html" crc="165156282" seo="true" mt="1567270182241" redirect="true"/>
-  <file name="dojinshi.html" crc="252943132" seo="true" mt="1567270182240" redirect="true"/>
+  <file name="works.html" crc="129814044" seo="true" mt="1567271620607" redirect="true"/>
+  <file name="illustration.html" crc="4059015238" seo="true" mt="1567271248248" redirect="true"/>
+  <file name="dojinshi.html" crc="3911926857" seo="true" mt="1567271276531" redirect="true"/>
   <file name="animation.html" crc="4271285478" seo="true" mt="1567270182239" redirect="true"/>
   <file name="fashion-design.html" crc="4220344213" seo="true" mt="1567270182238" redirect="true"/>
   <file name="fashion-design0.html" crc="286052994" seo="true" mt="1567270239788" redirect="true"/>
